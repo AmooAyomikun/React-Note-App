@@ -52,6 +52,7 @@ select{
 .sidebar-header h1{
   font-size:1.6rem;
   font-weight:800;
+  color: #f8fafc;
 }
 
 .sidebar-header button{
