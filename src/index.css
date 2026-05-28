@@ -9,7 +9,7 @@
 body{
   font-family:'Inter',sans-serif;
   background:linear-gradient(135deg,#020617,#0f172a);
-  color:var(--text);
+  color:#f8fafc;
   min-height:100vh;
 }
 
@@ -308,7 +308,7 @@ footer{
 }
 
 .empty-state p{
-  color:var(--muted);
+  color:#94a3b8;
   max-width:420px;
   line-height:1.7;
 }
@@ -326,7 +326,7 @@ footer{
 }
 
 .editor-meta{
-  color:var(--muted);
+  color:#94a3b8;
   font-size:0.9rem;
   margin-bottom:24px;
 }
