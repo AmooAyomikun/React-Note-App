@@ -1,16 +1,40 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive note-taking application built with React.js.
+This project focuses on clean UI/UX, component architecture, local state management, responsive design, and real-world frontend development practices.
 
-Currently, two official plugins are available:
+## Live Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Create new notes instantly
+- Edit notes in real time
+- Delete notes
+- Search notes dynamically
+- Categorize notes (Personal, Work, Ideas)
+- Responsive mobile-first design
+- Local storage persistence
+- Word count & character count
+- Last edited timestamps
+- Empty states for better UX
+- Active note highlighting
 
-## React Compiler
+## Preview
+https://amooayomikun.github.io/React-Note-App/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
+- React
+- JavaScript (ES6+)
+- CSS3
+- Font Awesome Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### State Management
+- React Hooks
+  - `useState`
+  - `useEffect`
+
+### Storage
+- Browser Local Storage API
+
+
+
