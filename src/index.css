@@ -9,7 +9,7 @@
 body{
   font-family:'Inter',sans-serif;
   background:linear-gradient(135deg,#020617,#0f172a);
-  color:#f8fafc;
+  color:#f8fafc !important;;
   min-height:100vh;
 }
 
@@ -306,10 +306,11 @@ footer{
 .empty-state h1{
   font-size:2.3rem;
   font-weight:800;
+  color: #f8fafc;
 }
 
 .empty-state p{
-  color:#94a3b8;
+  color: #94a3b8;;
   max-width:420px;
   line-height:1.7;
 }
